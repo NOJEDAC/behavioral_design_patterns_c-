@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\pedrojsaba\\unmsm\\behavioral_design_patterns_c-\\Commad\\Commad.csproj": {}
+    "C:\\Users\\Walter\\Documents\\Transfer github\\behavioral_design_patterns_c-\\Commad\\Commad.csproj": {}
   },
   "projects": {
-    "D:\\pedrojsaba\\unmsm\\behavioral_design_patterns_c-\\Commad\\Commad.csproj": {
+    "C:\\Users\\Walter\\Documents\\Transfer github\\behavioral_design_patterns_c-\\Commad\\Commad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\pedrojsaba\\unmsm\\behavioral_design_patterns_c-\\Commad\\Commad.csproj",
+        "projectUniqueName": "C:\\Users\\Walter\\Documents\\Transfer github\\behavioral_design_patterns_c-\\Commad\\Commad.csproj",
         "projectName": "Commad",
-        "projectPath": "D:\\pedrojsaba\\unmsm\\behavioral_design_patterns_c-\\Commad\\Commad.csproj",
-        "packagesPath": "C:\\Users\\pjancachagua\\.nuget\\packages\\",
-        "outputPath": "D:\\pedrojsaba\\unmsm\\behavioral_design_patterns_c-\\Commad\\obj\\",
+        "projectPath": "C:\\Users\\Walter\\Documents\\Transfer github\\behavioral_design_patterns_c-\\Commad\\Commad.csproj",
+        "packagesPath": "C:\\Users\\Walter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Walter\\Documents\\Transfer github\\behavioral_design_patterns_c-\\Commad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\pjancachagua\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Walter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
