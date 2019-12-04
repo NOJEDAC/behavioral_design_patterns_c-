@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lomej\\Documents\\GITHUB\\BehaviolPatterns\\behavioral_design_patterns_c-\\Commad\\Commad.csproj": {}
+    "D:\\pedrojsaba\\unmsm\\behavioral_design_patterns_c-\\Commad\\Commad.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lomej\\Documents\\GITHUB\\BehaviolPatterns\\behavioral_design_patterns_c-\\Commad\\Commad.csproj": {
+    "D:\\pedrojsaba\\unmsm\\behavioral_design_patterns_c-\\Commad\\Commad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lomej\\Documents\\GITHUB\\BehaviolPatterns\\behavioral_design_patterns_c-\\Commad\\Commad.csproj",
+        "projectUniqueName": "D:\\pedrojsaba\\unmsm\\behavioral_design_patterns_c-\\Commad\\Commad.csproj",
         "projectName": "Commad",
-        "projectPath": "C:\\Users\\lomej\\Documents\\GITHUB\\BehaviolPatterns\\behavioral_design_patterns_c-\\Commad\\Commad.csproj",
-        "packagesPath": "C:\\Users\\lomej\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lomej\\Documents\\GITHUB\\BehaviolPatterns\\behavioral_design_patterns_c-\\Commad\\obj\\",
+        "projectPath": "D:\\pedrojsaba\\unmsm\\behavioral_design_patterns_c-\\Commad\\Commad.csproj",
+        "packagesPath": "C:\\Users\\pjancachagua\\.nuget\\packages\\",
+        "outputPath": "D:\\pedrojsaba\\unmsm\\behavioral_design_patterns_c-\\Commad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\lomej\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\pjancachagua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
