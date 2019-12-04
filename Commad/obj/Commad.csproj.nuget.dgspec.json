@@ -1,33 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PosgradoUNMSM\\behavioral_design_patterns_c-\\Commad\\Commad.csproj": {}
+    "C:\\Users\\lomej\\Documents\\GITHUB\\BehaviolPatterns\\behavioral_design_patterns_c-\\Commad\\Commad.csproj": {}
   },
   "projects": {
-    "E:\\PosgradoUNMSM\\behavioral_design_patterns_c-\\Commad\\Commad.csproj": {
+    "C:\\Users\\lomej\\Documents\\GITHUB\\BehaviolPatterns\\behavioral_design_patterns_c-\\Commad\\Commad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PosgradoUNMSM\\behavioral_design_patterns_c-\\Commad\\Commad.csproj",
+        "projectUniqueName": "C:\\Users\\lomej\\Documents\\GITHUB\\BehaviolPatterns\\behavioral_design_patterns_c-\\Commad\\Commad.csproj",
         "projectName": "Commad",
-        "projectPath": "E:\\PosgradoUNMSM\\behavioral_design_patterns_c-\\Commad\\Commad.csproj",
-        "packagesPath": "C:\\Users\\Xavier Miranda\\.nuget\\packages\\",
-        "outputPath": "E:\\PosgradoUNMSM\\behavioral_design_patterns_c-\\Commad\\obj\\",
+        "projectPath": "C:\\Users\\lomej\\Documents\\GITHUB\\BehaviolPatterns\\behavioral_design_patterns_c-\\Commad\\Commad.csproj",
+        "packagesPath": "C:\\Users\\lomej\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lomej\\Documents\\GITHUB\\BehaviolPatterns\\behavioral_design_patterns_c-\\Commad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Xavier Miranda\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\lomej\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },

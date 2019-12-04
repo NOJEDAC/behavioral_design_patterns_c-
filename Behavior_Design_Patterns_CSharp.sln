@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chainofresponsibilityone", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Visitor", "Visitor\Visitor.csproj", "{041382DC-3E2E-4F0D-BDA3-C67F44F15A04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePattern", "..\..\..\..\Desktop\DOCS 2019-II\Patron Creational Prototype\creational-design-patterns-csharp-master\StatePattern\StatePattern.csproj", "{307876AD-C8F5-4994-B899-55EED8B95D54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{041382DC-3E2E-4F0D-BDA3-C67F44F15A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{041382DC-3E2E-4F0D-BDA3-C67F44F15A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{041382DC-3E2E-4F0D-BDA3-C67F44F15A04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{307876AD-C8F5-4994-B899-55EED8B95D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307876AD-C8F5-4994-B899-55EED8B95D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307876AD-C8F5-4994-B899-55EED8B95D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307876AD-C8F5-4994-B899-55EED8B95D54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
